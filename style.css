@@ -1,14 +1,14 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: black; 
-    color: #ffffff;
+    font-family: verdana;
+    background-color: white; 
+    color: white;
     text-align: center;
     padding: 20px;
 }
 
 
 form {
-    background-color: purple; 
+    background-color:purple; 
     width: 50%;
     margin: auto;
     padding: 20px;
@@ -21,7 +21,7 @@ label {
     font-size: 18px;
     display: block;
     margin: 10px 0 5px;
-    color: #2E3D27; 
+    color:violet; 
 }
 
 
@@ -49,8 +49,8 @@ input:focus {
 
 
 button {
-    background-color: red;
-    color: #ffffff;
+    background-color:pink;
+    color: pink;
     padding: 10px 20px;
     font-size: 18px;
     border: none;
