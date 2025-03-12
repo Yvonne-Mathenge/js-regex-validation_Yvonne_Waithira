@@ -49,8 +49,8 @@ input:focus {
 
 
 button {
-    background-color:blue;
-    color: blue;
+   background-color: #2E3D27;
+    color: #ffffff;
     padding: 10px 20px;
     font-size: 18px;
     border: none;
